@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-01",
+  "automated_tests": 21,
+  "tests": "passed",
+  "typecheck": "passed",
+  "format": "passed",
+  "production_build": "passed",
+  "local_responsive_widths": [
+    375,
+    753
+  ],
+  "horizontal_overflow": "none after fixes",
+  "public_smoke": "passed",
+  "public_browser": "calculation, save, reread, sharing, separate-tab read without editor token, real file download",
+  "export_sha256": "4fd39477b77d2bd21a959fd4b95fcbbeca78770def4b5bec0d694af1e975900e",
+  "deployed_application_sha": "7bc2c09c50180b25186725e3661244207e7167b8",
+  "demo": "https://ima-gustapaz.starrylinen.chatgpt.site"
+}
