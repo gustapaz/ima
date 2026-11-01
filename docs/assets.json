@@ -1,0 +1,19 @@
+{
+  "assets": [
+    {
+      "path": "public/media/metal.webp",
+      "source": "https://www.pexels.com/photo/abstract-metal-texture-background-image-36346052/",
+      "download_url": "https://images.pexels.com/photos/36346052/pexels-photo-36346052.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "author": "Jonathan Borba",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "verified_at": "2026-11-01T02:55:35.750446+00:00",
+      "sha256": "1f0dc6b956364df28e2bbbf69413d7402efcfe2e28d7b3b1cca5129e0df18983",
+      "source_sha256": "86e68d9df964fb868c52ee28acc2a20ae381042cd5dcbd55fd547f38d84fde6c",
+      "bytes": 192404,
+      "width": 1360,
+      "height": 907,
+      "changes": "EXIF orientation applied; RGB; resized to 1360x907 without crop; WebP quality 60; EXIF removed."
+    }
+  ]
+}
